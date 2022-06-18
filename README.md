@@ -6,7 +6,7 @@
 - 💙 Je suis un <b>Développeur Frontend </b>
 - 📫 Decouvrez plus sur moi <a href="https://aside-agency.ci" target="_blank">sur mon site web</a>
 
-![Metrics](https://metrics.lecoq.io/ln-dev7?template=classic&base.indepth=false&config.timezone=Africa%2FAbidjan)
+![Metrics](https://metrics.lecoq.io/amangouste225?template=classic&base.indepth=false&config.timezone=Africa%2FAbidjan)
 
 [![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ln-dev7&theme=xcode)](https://github.com/amangouste225)
 
