@@ -4,7 +4,7 @@
 
 - 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
 - 💙 Je suis un <b>Développeur Frontend </b>
-- 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
+- 📫 Decouvrez plus sur moi <a href="https://aside-agency.ci" target="_blank">sur mon site web</a>
 
 ![Metrics](https://metrics.lecoq.io/ln-dev7?template=classic&base.indepth=false&config.timezone=Africa%2FAbidjan)
 
@@ -12,7 +12,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/ln_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/amangouste225?logo=twitter&style=for-the-badge" alt="ln_dev7" /></a>
-  <img src="https://komarev.com/ghpvc/?username=amangoua123&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
+  <img src="https://komarev.com/ghpvc/?username=amangouste225&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
