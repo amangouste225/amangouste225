@@ -8,7 +8,7 @@
 
 ![Metrics](https://metrics.lecoq.io/amangouste225?template=classic&base.indepth=false&config.timezone=Africa%2FAbidjan)
 
-[![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ln-dev7&theme=xcode)](https://github.com/amangouste225)
+[![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=amangouste225&theme=xcode)](https://github.com/amangouste225)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amangouste225&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
