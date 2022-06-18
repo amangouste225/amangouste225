@@ -1,5 +1,6 @@
 # Bonjour👋<br>
-<h2>Moi c'est Amangoua</h2><br>
-🌴 Je suis un Développeur Frontend et Intégrateur web<br>
-💙 Je suis un Développeur Frontend 
-
+<h4>Moi c'est Amangoua</h4><br>
+<ul>
+<li>🌴 Je suis un Développeur Frontend et Intégrateur web<br></li>
+<li>💙 Je suis un Développeur Frontend </li>
+</ul>
