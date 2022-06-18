@@ -2,6 +2,8 @@
 
 ### Je suis Amangoua Ange
 
+<img src="/am" alt="photo" />
+
 - 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
 - 💙 Je suis un <b>Développeur Frontend </b>
 - 📫 Decouvrez plus sur moi <a href="https://aside-agency.ci" target="_blank">sur mon site web</a>
