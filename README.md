@@ -1,8 +1,6 @@
-## Bonjour 👋
+# Bonjour 👋  Hello 👋  
 
-### Je suis Amangoua Ange
-
-<img src="/am" alt="photo" />
+## Je suis AMANGOUA Kacou Ange-Thierry
 
 - 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
 - 💙 Je suis un <b>Développeur Frontend </b>
