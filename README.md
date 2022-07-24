@@ -1,10 +1,10 @@
-# Bonjour 👋 👋  👋 
+# Hello 👋 👋  👋 
 
-## Je suis AMANGOUA Kacou Ange-Thierry
+##I am AMANGOUA Kacou Ange-Thierry
 
-- 🌴 Je suis un <b>Développeur Frontend</b>
-- 💙 Je suis un <b>Développeur Frontend </b>
-- 📫 Decouvrez plus sur moi <a href="https://aside-agency.ci" target="_blank">sur mon site web</a>
+- 🌴 I am <b> Frontend Developer</b>
+- 💙 I am<b>Frontend Developer </b>
+- 📫 Discover more on <a href="https://aside-agency.ci" target="_blank">my website</a>
 
 ![Metrics](https://metrics.lecoq.io/amangouste225?template=classic&base.indepth=false&config.timezone=Africa%2FAbidjan)
 
