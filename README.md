@@ -11,11 +11,11 @@
     <a href="https://amangoua.dev">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=amangoua.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://twitter.com/amangouste225">
+    <a href=https://twitter.com/AmangouaKacou">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-amangouste225-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://figma.com/@amangouste225">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@amangouste225&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
+    <a href="https://www.instagram.com/amangouaangethierry/">
+      <img alt="Instagram Profile" src="https://img.shields.io/static/v1?color=%237733ff&label=Instagram&message=@amangouste225&style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
 </header>
