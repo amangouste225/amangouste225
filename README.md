@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/angethierry/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./head.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="./head.jpg" />
-    <img alt="Amangoua Kacou Ange Thierry | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./head.jpg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./r.png">
+    <source media="(prefers-color-scheme: light)" srcset="./r.png" />
+    <img alt="Amangoua Kacou Ange Thierry | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./r.png" width="100%" />
   </picture>
 </a>
 
