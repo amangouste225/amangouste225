@@ -8,7 +8,7 @@
 
 <header>
   <div align="center">
-    <a href="https://akat-dev.com">
+    <a href="[https://akat-dev.com](http://akat-dev.com/)">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=amangoua.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href=https://twitter.com/AmangouaKacou">
