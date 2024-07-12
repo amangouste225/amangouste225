@@ -8,7 +8,7 @@ A deep dive into essential functionality of every thing I touch is very engaging
 <br>
 ⠀╱|、 ㅤ the road wasn't long,<br>
 (˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>
-|、˜〵 ㅤ i felt such warmth<br>
+|、˜〵 ㅤ i felt such warm<br>
 じしˍ,)ノ<br>
 <br>
 
@@ -38,6 +38,4 @@ A deep dive into essential functionality of every thing I touch is very engaging
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=black&color=181717)
 ![And More...](https://img.shields.io/badge/And_More-808080?style=for-the-badge&labelColor=black&color=808080)
-
-
 <br>
