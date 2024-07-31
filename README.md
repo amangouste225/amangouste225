@@ -12,6 +12,7 @@ A deep dive into essential functionality of every thing I touch is very engaging
 じしˍ,)ノ<br>
 <br>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Davy-G.visitor-badge&left_color=blue&right_color=red" />
 
 <p>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=amangouste225&theme=tokyonight_duo&hide_border=true" width="48%" alt="Maksym's github-readme-streak-stats"/>
